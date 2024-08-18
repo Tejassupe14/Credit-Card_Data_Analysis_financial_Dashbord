@@ -1,8 +1,8 @@
 I Developed an interactive dashboard using transaction and customer data from a SQL database, to provide real-time insights.
 Power BI insights:
  -Revenue increased by 28.8%,
-• Total Transaction Amt & Count increased b.y xx% & xx%
-• Customer count increased by xx%
+• Total Transaction Amt & Count increased b.y 10% & 15%
+• Customer count increased by 12%
 Overview YTD:
 • Overall revenue is 57M
 • Total interest is 8M
