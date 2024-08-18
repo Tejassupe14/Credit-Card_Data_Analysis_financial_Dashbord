@@ -1,4 +1,4 @@
-Developed an interactive dashboard using transaction and customer data from a SQL database, to provide real-time insights.
+I Developed an interactive dashboard using transaction and customer data from a SQL database, to provide real-time insights.
 Power BI insights:
  -Revenue increased by 28.8%,
 • Total Transaction Amt & Count increased b.y xx% & xx%
